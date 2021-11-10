@@ -2,7 +2,7 @@ package Daire;
 
 import java.util.Scanner;
 
-public class AlanÇevreHesabı {
+public class AlanCevreHesabi {
     public static void main(String[] args) {
 //Dairenin Alanını,Çevresini ve merkez açısının ölçüsü a olan daire diliminin alanını Hesaplayan Program
         double pi = 3.14;
